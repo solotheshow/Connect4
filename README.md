@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **Connect4 Tournament**! This game is a competitive, multiplayer version of the classic Connect 4 game, designed with a fun twist: players are cadets who compete not only to win the game but also to secure their spot in a tournament and reveal their military branch assignments. The game is powered by a random guessing challenge to determine the order of players, and each round provides a unique, interactive experience.
+Welcome to the **Connect MS4 Tournament**! This game is a competitive, multiplayer version of the classic Connect 4 game, designed with a fun twist: players are cadets who compete not only to win the game but reveal their military branch assignments. The game is powered by a random guessing challenge to determine the order of players, and each round provides a unique, interactive experience.
 
 ---
 
