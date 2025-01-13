@@ -59,7 +59,8 @@ To run this game, you need the following:
 4. The objective of the game is to align four discs of your color (red or yellow) in a row.
 5. The winner of the match has their military branch revealed.
 6. The losing player is requeued at the end for the next round.
-7. The game continues until all cadets have participated in at least one match.![Connect4GUI](https://github.com/user-attachments/assets/8b91db8d-6a5d-4f32-b5a7-bd5030aa2af1)
+7. The game continues until all cadets have participated in at least one match.
+![Connect4GUI](https://github.com/user-attachments/assets/8b91db8d-6a5d-4f32-b5a7-bd5030aa2af1)
 ![QueueScreen](https://github.com/user-attachments/assets/bc6c025f-bdb1-46ad-b843-f9c5d4a5d7ee)
 ![MainScreenGuess](https://github.com/user-attachments/assets/90512d48-e29b-4be3-9144-f8630fb43a5f)
 
