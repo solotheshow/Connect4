@@ -11,7 +11,7 @@ Welcome to the **Connect4 Tournament**! This game is a competitive, multiplayer 
 - **Interactive Guessing Challenge:** Players begin by guessing a random number to determine their position in the queue.
 - **Dynamic Queue System:** Players are queued based on the accuracy of their guesses, ensuring a fair match-up.
 - **Classic Connect 4 Gameplay:** The traditional Connect 4 game where players aim to align four discs in a row, either horizontally, vertically, or diagonally.
-- **Branch Reveal:** The winner of each round has their military branch revealed, adding a layer of competition and excitement to the game.
+- **Branch Reveal:** The winner of each round has their military branch revealed, adding a layer of competition and excitement to the game, but mostly removing the anxiety of anticpating their branch.
 - **Requeuing System:** The losing player is automatically placed at the end of the queue for the next round, maintaining a continuous flow of matches.
 - **Tie Handling:** If the game board is full without a winner, a tie is declared, and the board is reset for a new round.
 - **User Interface:** Built with **Tkinter**, the game features an intuitive, easy-to-use interface with clear instructions and smooth transitions between stages.
@@ -57,7 +57,7 @@ To run this game, you need the following:
 2. The players are queued based on how close their guesses are to the randomly generated number.
 3. Players are paired up to play against each other in a **Connect 4** match.
 4. The objective of the game is to align four discs of your color (red or yellow) in a row.
-5. The winner of the match has their military branch revealed and continues in the tournament.
+5. The winner of the match has their military branch revealed.
 6. The losing player is requeued at the end for the next round.
 7. The game continues until all cadets have participated in at least one match.![Connect4GUI](https://github.com/user-attachments/assets/8b91db8d-6a5d-4f32-b5a7-bd5030aa2af1)
 ![QueueScreen](https://github.com/user-attachments/assets/bc6c025f-bdb1-46ad-b843-f9c5d4a5d7ee)
@@ -72,11 +72,6 @@ Feel free to fork the repository and submit pull requests for any improvements o
 
 ---
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 ## Acknowledgements
 
